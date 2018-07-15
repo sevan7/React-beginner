@@ -1,0 +1,16 @@
+.foot {
+    position: absolute;
+    height: 150px;
+    width: 100%;
+    background-color: slateblue;
+    bottom: 10px;
+    
+}
+
+#footText {
+    color:yellow;
+    padding:  1em;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}

@@ -1,0 +1,18 @@
+.Box1 {
+    background-color: black;
+    position:absolute;
+    left: 0;
+    width: 50%;
+    height: 46%;
+    color: yellow;
+    
+}
+
+.Box2 {
+    background-color: brown;
+    position: absolute;
+    right: 0;
+    width: 50%;
+    height: 46%;
+    color: black;
+}
